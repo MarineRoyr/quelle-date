@@ -15,7 +15,7 @@ const Router = createBrowserRouter([
         path: '/quelle-date/'
       },
       {
-        path: '/apropos',
+        path: '/quelle-date/apropos',
         element: <APropos/>
       },
       {
@@ -23,7 +23,7 @@ const Router = createBrowserRouter([
         element: <Date/>
       },
       {
-        path: '/mentionslegales',
+        path: '/quelle-date/mentionslegales',
         element: <MentionsLegales/>
       }
     ]
