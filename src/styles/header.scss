@@ -1,0 +1,33 @@
+$blackColor: #000000;
+$BlueNavy: #10376B;
+$galleryColor: #F6F6F6;
+$fontText: 'Montserrat';
+$extra-small-screen: 576px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1440px;
+$large-extra-screen: 1800px;
+
+
+
+.Header {
+    display: flex;
+    justify-content: center;
+
+    h1 img {
+        margin: 0;
+        padding: 0;
+        max-width: 230px;
+    }
+}
+
+@media (max-width: $extra-small-screen) {
+
+    .Header {
+
+        h1 img {
+            width: 150px;
+        }
+    }
+
+}

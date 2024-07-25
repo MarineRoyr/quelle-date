@@ -1,8 +1,9 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Layout from '../components/Layout/Layout'
 import Error from '../components/pages/Error'
-import Date from '../components/pages/Date'
+import Date from './pages/Dates'
 import APropos from '../components/pages/APropos'
+import MentionsLegales from  '../components/pages/mentionsLegales'
 
 const Router = createBrowserRouter([
   {
@@ -11,12 +12,16 @@ const Router = createBrowserRouter([
     errorElement: <Error/>,
     children: [
       {
-        path: 'a-propos',
+        path: 'apropos',
         element: <APropos/>
       },
       {
-        path: 'recherche/:id',
+        path: '/results',
         element: <Date/>
+      },
+      {
+        path: '/mentionslegales',
+        element: <MentionsLegales/>
       }
     ]
   }

@@ -1,0 +1,216 @@
+$blackColor: #000000;
+$BlueNavy: #10376B;
+$galleryColor: #F6F6F6;
+$fontText: 'Montserrat';
+$extra-small-screen: 576px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1440px;
+$large-extra-screen: 1800px;
+$banner-image: '..';
+
+.SearchBarContainer {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    flex-wrap: wrap;
+    background-image: url("../images//bannerHomePageXtraLarge.jpg");
+    height: 700px;
+
+
+    .searchBarForm {
+        p {
+
+            font-size: 35px;
+            font-family: $fontText ;
+            color: antiquewhite;
+            font-weight: 500;
+            text-shadow: 1em 1em 0.2em #313844;
+        }
+    }
+
+    .searchBar {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px 0;
+
+
+
+        .searchInput {
+            width: 600px;
+            padding: 30px;
+            border: antiquewhite;
+            border-radius: 10px 0px 0px 10px;
+            font-size: 24px;
+            font-family: $fontText ;
+            background-color: antiquewhite;
+        }
+
+        .searchButton {
+            padding: 31px 50px;
+            border: none;
+            background-color: $BlueNavy;
+            color: white;
+            border-radius: 0px 10px 10px 0px;
+            cursor: pointer;
+            font-size: 24px;
+        }
+
+        .searchButton:hover {
+            background-color: #547094;
+        }
+    }
+
+
+    p {
+        text-align: center;
+        font-family: $fontText;
+        font-size: 28px;
+        color: white;
+        font-weight: 500;
+    }
+
+
+}
+
+
+
+@media (max-width : $large-extra-screen ) {
+
+    .SearchBarContainer {
+        gap: 30px;
+        background-image: url("../images/bannerHomePageLarge.jpg");
+
+    }
+}
+
+
+
+@media (max-width: $large-screen) {
+    .SearchBarContainer {
+        background-image: url("../images/bannerHomePageMedium.jpg");
+        height: 500px;
+        gap: 20px;
+
+        .searchBarForm {
+            p {
+                font-size: 20px;
+            }
+        }
+
+        .searchBar {
+
+
+            .searchInput {
+                width: 400px;
+                padding: 30px;
+                font-size: 18px;
+                font-family: $fontText ;
+            }
+
+            .searchButton {
+                padding: 31px 35px;
+                font-size: 18px;
+            }
+
+        }
+
+        p {
+
+            font-size: 20px;
+
+        }
+
+    }
+
+}
+
+
+@media (max-width: $medium-screen) {
+
+    .SearchBarContainer {
+        gap: 10px;
+        background-image: url("../images/bannerHomePageSmall.jpg");
+        height: 500px;
+
+
+        .searchBar {
+
+            .searchInput {
+                width: 200px;
+                padding: 20px;
+                font-size: 16px;
+            }
+
+            .searchButton {
+                padding: 21px 30px;
+                font-size: 16px;
+            }
+
+            .searchButton:hover {
+                background-color: #547094;
+            }
+        }
+
+
+
+
+    }
+
+}
+
+@media (max-width: $small-screen) {
+    .SearchBarContainer {
+        background-image: url("../images//bannerHomePageSmallX.jpg");
+        height: 300px;
+
+        p {
+            font-size: 16px;
+        }
+    }
+}
+
+
+@media (max-width: $extra-small-screen) {
+
+    .SearchBarContainer {
+        background-image: url("../images//bannerHomePageSmallXS.jpg");
+        height: 200px;
+        padding: 0;
+
+        .searchBarForm {
+            p {
+                font-weight: 800;
+                font-size: 12px;
+                text-shadow: none;
+
+            }
+        }
+
+        .searchBar {
+
+
+            .searchInput {
+                width: 100px;
+                padding: 10px;
+                font-size: 10px;
+            }
+
+            .searchButton {
+                padding: 11px 10px;
+                font-size: 10px;
+            }
+        }
+
+
+        p {
+            font-size: 10px;
+            font-weight: 700;
+        }
+
+
+    }
+}

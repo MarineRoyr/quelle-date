@@ -3,11 +3,11 @@ import Layout from '../components/Layout/Layout'
 
 function App() {
   return (
-    <div className="App">
+    <main className="App">
       <header className="App-header">
   <Layout/>
       </header>
-    </div>
+    </main>
   );
 }
 

@@ -1,0 +1,354 @@
+$BlueNavy: #10376B;
+$fontText: 'Montserrat';
+$extra-small-screen: 600px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1440px;
+$large-extra-screen: 1800px;
+
+
+.allResults {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+
+
+    .eventYearList {
+        display: flex;
+        gap: 25px;
+        color: rgb(12, 32, 58);
+        font-family: $fontText;
+        font-size: 30px;
+        padding-left: 100px;
+
+        .eventTitle {
+            display: flex;
+            flex-direction: column;
+        }
+
+        img {
+            margin-top: 15px;
+            height: 80px;
+        }
+
+
+    }
+
+
+    .eventRight {
+        max-width: 1000px;
+        width: 100%;
+        position: relative;
+        z-index: 2;
+
+        h2 {
+            position: absolute;
+            top: 3%;
+            left: 28%;
+            z-index: 1;
+            color: white;
+            font-size: 70px;
+            font-weight: 500;
+            font-family: $fontText;
+        }
+
+        img {
+            width: 100%;
+            object-fit: cover;
+            height: 810px;
+            opacity: 80%;
+        }
+    }
+
+    .yearList {
+        .eventLeft {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 800px;
+        }
+
+        .personnage:hover {
+            background-color: rgb(34, 50, 71);
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -o-transition: all 0.5s;
+            transition: all 0.5s;
+        }
+
+        .personnage {
+            max-width: 2000px;
+            font-family: $fontText;
+            display: flex;
+            gap: 30px;
+            background-color: rgb(12, 32, 58);
+            border-radius: 5px;
+            color: #F6F6F6;
+            min-height: 600px;
+
+            h3 {
+                font-family: "inconsolata";
+                font-weight: 500;
+                font-size: 20px;
+            }
+
+
+            .personnageTxt {
+                display: flex;
+                flex-direction: column;
+                font-size: 16px;
+                max-width: 80%;
+            }
+
+
+
+            .personnagePhoto {
+
+                img {
+                    width: 100%;
+                    object-fit: cover;
+                    height: 600px;
+                    opacity: 90%;
+                    border-radius: 5px;
+                }
+            }
+
+            .mediaLinks {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                justify-content: center;
+                font-family: "inconsolata";
+                font-size: 18px;
+
+                button {
+                    border: none;
+                    border-radius: 10px;
+                    background-color: #b8872e;
+                    padding: 10px;
+                    color: antiquewhite;
+                    font-family: $fontText;
+                    font-size: 16px;
+                    width: 50%;
+                    -webkit-transition: all 0.5s;
+                    -moz-transition: all 0.5s;
+                    -o-transition: all 0.5s;
+                    transition: all 0.5s;
+                    cursor: pointer;
+                }
+
+                button:hover {
+                    background-color: rgb(15, 28, 46);
+                }
+            }
+        }
+    }
+
+
+}
+
+
+
+.eventRight {
+    max-width: 1000px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+
+    h2 {
+        position: absolute;
+        top: 18%;
+        left: 28%;
+        z-index: 1;
+        color: antiquewhite;
+        font-size: 70px;
+        font-weight: 500;
+        font-family: $fontText;
+    }
+
+    img {
+        min-width: 200px;
+    }
+}
+
+
+
+@media (max-width: $large-screen) {
+
+    .allResults {
+
+        .yearList {
+            .eventYearList {
+                padding-left: 0px;
+            }
+
+
+        }
+
+        .eventRight {
+            h2 {
+                top: 18%;
+                left: 15%;
+                font-size: 60px;
+            }
+
+            img {
+
+                min-width: 200px;
+            }
+        }
+    }
+}
+
+@media (max-width: $medium-screen) {
+    .allResults {
+
+
+        .eventYearList {
+            font-size: 24px;
+            padding-left: 0;
+
+            .eventTitle {
+                display: flex;
+                flex-direction: column;
+            }
+
+            img {
+                margin-top: 15px;
+                height: 80px;
+            }
+        }
+
+
+        .eventRight {
+
+            h2 {
+                font-size: 45px;
+            }
+
+            img {
+                height: 800px;
+
+            }
+        }
+
+        .yearList {
+
+            .personnage {
+                gap: 20px;
+
+                h3 {
+                    font-weight: 600;
+                    font-size: 18px;
+                }
+
+
+                .personnageTxt {
+                    font-size: 13px;
+                    max-width: 70%;
+                }
+
+                .mediaLinks {
+                    font-size: 14px;
+
+                    button {
+                        padding: 6px;
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+
+@media (max-width: $small-screen) {
+
+    .allResults {
+        flex-direction: column-reverse;
+
+        .yearList {
+            .eventYearList {
+                display: flex;
+                flex-direction: column;
+                font-size: 30px;
+                padding-left: 0px;
+
+                img {
+                    display: none;
+                }
+            }
+
+            .personnage:hover {
+                background-color: rgb(16, 55, 107);
+                -webkit-transition: all 0.5s;
+                -moz-transition: all 0.5s;
+                -o-transition: all 0.5s;
+                transition: all 0.5s;
+            }
+
+            .personnage {
+                flex-direction: column;
+                align-items: center;
+                gap: 30px;
+                min-height: max-content;
+
+                .personnagePhoto {
+                    img {
+                        height: 300px;
+                    }
+                }
+
+                .mediaLinks {
+                    align-items: center;
+
+                    button {
+                        width: 80%;
+                    }
+                }
+            }
+        }
+
+        .eventRight {
+
+            h2 {
+                top: 18%;
+                left: 15%;
+                font-size: 35px;
+            }
+
+            img {
+                height: 200px;
+                min-width: none;
+                width: 100%;
+            }
+        }
+    }
+}
+
+@media (max-width: $extra-small-screen ) {
+
+    .allResults {
+        .yearList {
+
+            .eventRight {
+
+                h2 {
+                    top: 18%;
+                    left: 15%;
+                    font-size: 35px;
+                }
+
+                img {
+                    height: 200px;
+                    min-width: none;
+                    width: 100%;
+                }
+            }
+
+        }
+    }
+}

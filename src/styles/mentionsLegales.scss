@@ -1,0 +1,17 @@
+$BlueNavy: #10376B;
+$fontText: 'Montserrat';
+$extra-small-screen: 600px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1440px;
+$large-extra-screen: 1800px;
+
+
+.mentionsLegales {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: $fontText;
+    color: $BlueNavy
+}
