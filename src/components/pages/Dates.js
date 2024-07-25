@@ -8,7 +8,7 @@ const isDevelopment = process.env.NODE_ENV === 'development';
 
 // Configurez le chemin d'image basé sur l'environnement
 const imageUrl = isDevelopment
-  ? ''  // Chemin relatif pour le développement
+  ? '/quelle-date/'  // Chemin relatif pour le développement
   : `${process.env.REACT_APP_IMAGE_PATH}`;  // Chemin complet pour la production
 
 const DateComponent = () => {

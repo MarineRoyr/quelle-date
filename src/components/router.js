@@ -12,11 +12,10 @@ const Router = createBrowserRouter([
     errorElement: <Error/>,
     children: [
       {
-        path: 'quelle-date/',
-        element: <Layout/>
+        path: '/quelle-date/'
       },
       {
-        path: 'apropos',
+        path: '/apropos',
         element: <APropos/>
       },
       {
