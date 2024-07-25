@@ -6,7 +6,7 @@ import '../../styles/mentionsLegales.scss'
 const MentionsLegales = () => {
 
   return (
-    <div className='mentionsLegales'>
+    <div className='contenuSupp'>
      <h2> PRESENTATION DU SITE</h2>
      <div>
 En vertu de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique,

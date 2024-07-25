@@ -5300,7 +5300,7 @@
   },
   {
     "annee": 700,
-    "evenement": "L'Empire musulman fait face à des défis importants dans la gestion de ses vastes territoires, avec des tensions politiques et des conflits internes affectant la stabilité de l'Empire.",
+    "evenement": "Le royaume des Francs, sous le règne de Clovis, continue de renforcer son autorité en Europe occidentale. L'Empire musulman fait face à des défis importants dans la gestion de ses vastes territoires, avec des tensions politiques et des conflits internes affectant la stabilité de l'Empire.",
     "id": "700a",
     "bannerImage": "/images/bannerMoyenAge.jpg"
   },
@@ -5610,24 +5610,718 @@
     "id": "751a"
   },
   {
+    "annee": 752,
+    "evenement": "Les raids vikings sur les côtes européennes continuent, avec des invasions en Bretagne et des pillages dans les villes côtières.",
+    "id": "752e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 753,
+    "evenement": "Charlemagne étend son empire en menant des campagnes militaires contre les Lombards et en consolidant son autorité en Italie.",
+    "id": "753e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 754,
+    "evenement": "Les invasions vikings continuent de déstabiliser les régions côtières, avec des attaques en Normandie et en Aquitaine.",
+    "id": "754e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 755,
+    "evenement": "Charlemagne établit des alliances diplomatiques avec les royaumes voisins pour sécuriser ses frontières et renforcer son empire.",
+    "id": "755e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 756,
+    "evenement": "Les raids vikings continuent d'affecter les côtes britanniques et françaises, avec des conflits récurrents sur les territoires côtiers.",
+    "id": "756e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 757,
+    "evenement": "Charlemagne lance une série de réformes pour améliorer l'administration de son empire, avec des changements dans la structure des comtés.",
+    "id": "757e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 758,
+    "evenement": "Les invasions vikings continuent de marquer l'histoire européenne, avec des raids fréquents sur les côtes de la Manche et de l'Atlantique.",
+    "id": "758e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 759,
+    "evenement": "Charlemagne renforce son empire par des campagnes militaires pour soumettre les régions récalcitrantes et stabiliser les frontières.",
+    "id": "759e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 760,
+    "evenement": "Les raids vikings sur les côtes européennes continuent d'affecter les royaumes côtiers, avec des pillages et des invasions régulières.",
+    "id": "760e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 761,
+    "evenement": "Charlemagne poursuit ses réformes éducatives et culturelles, promouvant l'apprentissage et la préservation des savoirs dans son empire.",
+    "id": "761e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 762,
+    "evenement": "Les invasions vikings continuent d'affecter les côtes de l'Europe, avec des attaques sur les villes portuaires et des pillages fréquents.",
+    "id": "762e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 763,
+    "evenement": "Charlemagne renforce ses campagnes militaires et ses réformes pour assurer la stabilité et l'unité de son empire en Europe.",
+    "id": "763e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 764,
+    "evenement": "Les raids vikings continuent de perturber les régions côtières, avec des invasions sur les côtes françaises et britanniques.",
+    "id": "764e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 765,
+    "evenement": "Charlemagne met en place des réformes pour renforcer l'administration locale et améliorer la gestion des provinces de son empire.",
+    "id": "765e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 766,
+    "evenement": "Les invasions vikings sur les côtes européennes continuent de marquer l'histoire, avec des raids fréquents et des pillages des villes côtières.",
+    "id": "766e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 767,
+    "evenement": "Charlemagne poursuit ses efforts pour sécuriser ses frontières et consolider son empire par des campagnes militaires et des réformes.",
+    "id": "767e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
     "annee": 768,
-    "evenement": "Début du règne de Charlemagne après la mort de son père, Pépin le Bref. Charlemagne devient roi des Francs et étend considérablement l'Empire franc.",
-    "id": "768a"
+    "evenement": "Les raids vikings sur les côtes européennes continuent d'affecter les royaumes côtiers, avec des attaques sur les ports et les villes.",
+    "id": "768e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 769,
+    "evenement": "Charlemagne met en place des réformes pour améliorer la gouvernance et l'administration dans les différentes régions de son empire.",
+    "id": "769e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 770,
+    "evenement": "Les invasions vikings continuent de perturber la stabilité des régions côtières, avec des raids en Bretagne et dans les pays scandinaves.",
+    "id": "770e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 771,
+    "evenement": "Charlemagne continue d'étendre son empire par des campagnes militaires et des alliances diplomatiques pour sécuriser ses frontières.",
+    "id": "771e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 772,
+    "evenement": "Les raids vikings sur les côtes européennes se poursuivent, avec des attaques fréquentes sur les ports et les villes côtières.",
+    "id": "772e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 773,
+    "evenement": "Charlemagne renforce son empire par des réformes administratives et des campagnes militaires pour stabiliser les régions récentes.",
+    "id": "773e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 774,
+    "evenement": "Les invasions vikings continuent de marquer l'histoire de l'Europe avec des raids réguliers sur les côtes de la Manche et de l'Atlantique.",
+    "id": "774e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 775,
+    "evenement": "Charlemagne continue de promouvoir l'éducation et la culture à la cour, soutenant les efforts pour la préservation des savoirs.",
+    "id": "775e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 776,
+    "evenement": "Les raids vikings sur les côtes britanniques et françaises se poursuivent, entraînant des mesures de défense renforcées et des contre-attaques.",
+    "id": "776e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 777,
+    "evenement": "Charlemagne organise des campagnes militaires pour assurer la stabilité de son empire et étendre son autorité dans les régions frontalières.",
+    "id": "777e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 778,
+    "evenement": "Les invasions vikings continuent de perturber les côtes européennes, avec des pillages et des attaques sur les villes côtières.",
+    "id": "778e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 779,
+    "evenement": "Charlemagne met en place des réformes pour améliorer l'administration locale et la gestion des territoires au sein de son empire.",
+    "id": "779e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 780,
+    "evenement": "Les raids vikings sur les côtes européennes se poursuivent, entraînant des conflits prolongés et des efforts accrus de défense.",
+    "id": "780e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 781,
+    "evenement": "Charlemagne renforce ses relations diplomatiques avec les royaumes voisins et organise des campagnes militaires pour sécuriser son empire.",
+    "id": "781e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 782,
+    "evenement": "Les invasions vikings continuent de marquer l'histoire de l'Europe, avec des raids fréquents et des pillages des villes côtières.",
+    "id": "782e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 783,
+    "evenement": "Charlemagne poursuit ses réformes pour stabiliser et administrer son empire, avec des changements dans la gestion des provinces et des comtés.",
+    "id": "783e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 784,
+    "evenement": "Les raids vikings continuent de perturber les côtes européennes, entraînant des attaques et des pillages réguliers sur les ports.",
+    "id": "784e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 785,
+    "evenement": "Charlemagne renforce ses efforts pour promouvoir l'éducation et la culture à la cour, soutenant la renaissance carolingienne.",
+    "id": "785e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 786,
+    "evenement": "Les invasions vikings continuent de déstabiliser les régions côtières, avec des raids fréquents et des conflits prolongés avec les royaumes européens.",
+    "id": "786e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 787,
+    "evenement": "Charlemagne organise des campagnes militaires pour sécuriser les frontières de son empire et soumettre les régions rebelles.",
+    "id": "787e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 788,
+    "evenement": "Les raids vikings continuent de marquer l'histoire européenne, avec des pillages et des attaques réguliers sur les côtes britanniques et françaises.",
+    "id": "788e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 789,
+    "evenement": "Charlemagne renforce ses réformes administratives pour améliorer la gestion des territoires et stabiliser son empire.",
+    "id": "789e",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 790,
+    "evenement": "Charlemagne poursuit ses réformes administratives pour stabiliser et renforcer son empire.",
+    "id": "790a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 791,
+    "evenement": "Charlemagne continue de renforcer ses alliances en Europe, consolidant ainsi son pouvoir.",
+    "id": "791a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 792,
+    "evenement": "Charlemagne mène une campagne militaire contre les Saxons pour étendre son empire.",
+    "id": "792a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 793,
+    "evenement": "Début des invasions vikings en Europe, avec le pillage du monastère de Lindisfarne en Angleterre.",
+    "id": "793a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 794,
+    "evenement": "Charlemagne renforce les fortifications le long des frontières de son empire pour repousser les incursions.",
+    "id": "794a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 795,
+    "evenement": "Charlemagne organise des campagnes militaires contre les Avars pour sécuriser les territoires orientaux.",
+    "id": "795a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 796,
+    "evenement": "Les incursions vikings continuent de perturber les régions côtières de l'Europe.",
+    "id": "796a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 797,
+    "evenement": "Charlemagne établit des réformes pour améliorer l'éducation et la culture au sein de son empire.",
+    "id": "797a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 798,
+    "evenement": "Charlemagne renforce la centralisation de son administration en créant de nouveaux comtés.",
+    "id": "798a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 799,
+    "evenement": "Les invasions vikings se poursuivent avec des raids dans les îles Britanniques et le long des côtes de la France.",
+    "id": "799a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
   },
   {
     "annee": 800,
-    "evenement": "Couronnement de Charlemagne comme Empereur des Romains par le pape Léon III, établissant le Saint-Empire romain germanique.",
-    "id": "800a"
+    "evenement": "Charlemagne est couronné empereur d'Occident par le pape Léon III à Rome, établissant le Saint-Empire romain germanique.",
+    "id": "800a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 801,
+    "evenement": "Charlemagne poursuit ses campagnes militaires pour consolider les frontières orientales de son empire.",
+    "id": "801a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 802,
+    "evenement": "Charlemagne organise un concile pour renforcer l'unité religieuse au sein de son empire.",
+    "id": "802a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 803,
+    "evenement": "Les vikings continuent leurs raids en Europe, affectant les routes commerciales et les côtes.",
+    "id": "803a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 804,
+    "evenement": "Charlemagne établit un code de lois pour uniformiser l'administration dans tout son empire.",
+    "id": "804a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 805,
+    "evenement": "Les campagnes militaires de Charlemagne se poursuivent pour sécuriser les territoires conquises.",
+    "id": "805a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 806,
+    "evenement": "Charlemagne met en place des réformes pour améliorer la justice et le droit au sein de son empire.",
+    "id": "806a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 807,
+    "evenement": "Les raids vikings continuent de mettre à l'épreuve la défense des territoires européens.",
+    "id": "807a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 808,
+    "evenement": "Charlemagne renforce ses alliances avec les souverains voisins pour maintenir la stabilité de son empire.",
+    "id": "808a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 809,
+    "evenement": "Les réformes éducatives de Charlemagne continuent d'influencer la culture et l'éducation en Europe.",
+    "id": "809a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 810,
+    "evenement": "Charlemagne consolide son administration et son contrôle des territoires conquis.",
+    "id": "810a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 811,
+    "evenement": "Les vikings poursuivent leurs incursions, menaçant les régions côtières de l'empire de Charlemagne.",
+    "id": "811a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 812,
+    "evenement": "Charlemagne établit des structures administratives pour mieux gérer les territoires éloignés de son empire.",
+    "id": "812a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 813,
+    "evenement": "Charlemagne renforce son pouvoir en effectuant des réformes politiques et économiques.",
+    "id": "813a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
   },
   {
     "annee": 814,
-    "evenement": "Mort de Charlemagne. Son empire est divisé entre ses héritiers, avec le traité de Verdun en 843 établissant des frontières qui durent jusqu'à la fin de l'Empire franc.",
-    "id": "814a"
+    "evenement": "Charlemagne meurt et son empire est divisé entre ses héritiers.",
+    "id": "814a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 815,
+    "evenement": "L'empire de Charlemagne commence à se fragmenter sous le règne de ses successeurs.",
+    "id": "815a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 816,
+    "evenement": "Les invasions vikings continuent de bouleverser la stabilité en Europe.",
+    "id": "816a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 817,
+    "evenement": "Les successeurs de Charlemagne tentent de maintenir l'unité et l'intégrité de l'empire.",
+    "id": "817a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 818,
+    "evenement": "Les conflits internes et les invasions vikings affaiblissent les territoires de l'ex-empire carolingien.",
+    "id": "818a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 819,
+    "evenement": "Les tentatives de réforme administrative continuent sous les nouveaux souverains.",
+    "id": "819a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 820,
+    "evenement": "Les incursions vikings provoquent des perturbations dans les routes commerciales et les régions côtières.",
+    "id": "820a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 821,
+    "evenement": "Les territoires de l'ex-empire carolingien connaissent une période de désordre et de fragmentation.",
+    "id": "821a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 822,
+    "evenement": "Les efforts de consolidation de l'empire carolingien se poursuivent malgré les défis.",
+    "id": "822a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 823,
+    "evenement": "Les invasions vikings continuent de frapper les territoires européens.",
+    "id": "823a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 824,
+    "evenement": "Les souverains des territoires carolingiens tentent de renforcer leurs alliances pour résister aux invasions.",
+    "id": "824a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 825,
+    "evenement": "Les incursions vikings causent des destructions importantes dans certaines régions.",
+    "id": "825a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 826,
+    "evenement": "Les réformes administratives se poursuivent pour stabiliser les territoires démembrés.",
+    "id": "826a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 827,
+    "evenement": "Les invasions vikings continuent d'affecter le commerce et la sécurité dans les régions côtières.",
+    "id": "827a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 828,
+    "evenement": "Les tentatives de reconstruction politique dans les territoires carolingiens montrent des signes de progrès.",
+    "id": "828a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 829,
+    "evenement": "Les invasions vikings se poursuivent, entraînant des conflits et des troubles dans plusieurs régions.",
+    "id": "829a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 830,
+    "evenement": "Les efforts de stabilisation politique continuent malgré la persistance des défis extérieurs et intérieurs.",
+    "id": "830a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 831,
+    "evenement": "Les tensions internes au sein de l'empire carolingien continuent de fragiliser l'unité.",
+    "id": "831a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 832,
+    "evenement": "Les incursions vikings se poursuivent avec des raids fréquents en Europe.",
+    "id": "832a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 833,
+    "evenement": "Les luttes de pouvoir internes affaiblissent l'autorité centrale de l'empire carolingien.",
+    "id": "833a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 834,
+    "evenement": "Les vikings intensifient leurs attaques, ciblant les monastères et les villes côtières.",
+    "id": "834a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 835,
+    "evenement": "Les souverains carolingiens tentent de renforcer leur autorité face aux défis internes et externes.",
+    "id": "835a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 836,
+    "evenement": "Les attaques vikings continuent de menacer la stabilité et la sécurité en Europe.",
+    "id": "836a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 837,
+    "evenement": "Les efforts de consolidation de l'empire carolingien se poursuivent malgré les incursions vikings.",
+    "id": "837a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 838,
+    "evenement": "Les luttes de pouvoir internes persistent, exacerbant les divisions au sein de l'empire carolingien.",
+    "id": "838a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 839,
+    "evenement": "Les vikings continuent leurs raids, semant la terreur le long des côtes européennes.",
+    "id": "839a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 840,
+    "evenement": "Mort de Louis le Pieux, empereur carolingien, déclenchant une lutte de succession entre ses fils.",
+    "id": "840a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 841,
+    "evenement": "Bataille de Fontenoy : les fils de Louis le Pieux s'affrontent pour le contrôle de l'empire carolingien.",
+    "id": "841a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 842,
+    "evenement": "Les Serments de Strasbourg sont prononcés, marquant l'alliance entre Charles le Chauve et Louis le Germanique.",
+    "id": "842a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
   },
   {
     "annee": 843,
-    "evenement": "Traité de Verdun : Division de l'Empire de Charlemagne en trois royaumes distincts : Francie occidentale, Francie orientale, et Lotharingie.",
-    "id": "843a"
+    "evenement": "Traité de Verdun : l'empire carolingien est divisé en trois royaumes, mettant fin à la guerre civile.",
+    "id": "843a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 844,
+    "evenement": "Les raids vikings se poursuivent, menaçant les côtes et les fleuves de l'Europe.",
+    "id": "844a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 845,
+    "evenement": "Les vikings attaquent Paris, exigeant une rançon pour épargner la ville.",
+    "id": "845a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 846,
+    "evenement": "Les souverains carolingiens tentent de renforcer leurs défenses contre les incursions vikings.",
+    "id": "846a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 847,
+    "evenement": "Les tensions entre les différents royaumes carolingiens persistent malgré les tentatives de réconciliation.",
+    "id": "847a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 848,
+    "evenement": "Les attaques vikings continuent de perturber le commerce et la sécurité en Europe.",
+    "id": "848a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 849,
+    "evenement": "Les efforts de reconstruction politique et militaire se poursuivent dans les royaumes carolingiens.",
+    "id": "849a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 850,
+    "evenement": "Les vikings intensifient leurs raids, ciblant les villes et les monastères européens.",
+    "id": "850a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 851,
+    "evenement": "Les royaumes carolingiens tentent de renforcer leurs alliances pour résister aux incursions vikings.",
+    "id": "851a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 852,
+    "evenement": "Les conflits internes persistent dans les royaumes carolingiens, affaiblissant leur résistance aux invasions.",
+    "id": "852a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 853,
+    "evenement": "Les vikings poursuivent leurs incursions, menaçant la stabilité des territoires européens.",
+    "id": "853a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 854,
+    "evenement": "Les souverains carolingiens tentent de renforcer leurs défenses et leur administration.",
+    "id": "854a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 855,
+    "evenement": "Les raids vikings continuent de dévaster les régions côtières de l'Europe.",
+    "id": "855a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 856,
+    "evenement": "Les tensions internes et les attaques vikings persistent, mettant à l'épreuve les royaumes carolingiens.",
+    "id": "856a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 857,
+    "evenement": "Les souverains carolingiens cherchent des solutions pour stabiliser et protéger leurs territoires.",
+    "id": "857a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 858,
+    "evenement": "Les vikings poursuivent leurs incursions, perturbant le commerce et la sécurité en Europe.",
+    "id": "858a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 859,
+    "evenement": "Les royaumes carolingiens tentent de renforcer leurs alliances et leur administration.",
+    "id": "859a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 860,
+    "evenement": "Les raids vikings continuent de menacer la stabilité des territoires européens.",
+    "id": "860a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 861,
+    "evenement": "Les souverains carolingiens tentent de renforcer leur autorité face aux incursions vikings.",
+    "id": "861a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 862,
+    "evenement": "Les tensions internes et les attaques vikings persistent, affaiblissant les royaumes carolingiens.",
+    "id": "862a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 863,
+    "evenement": "Les souverains carolingiens poursuivent leurs efforts de stabilisation politique et militaire.",
+    "id": "863a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 864,
+    "evenement": "Les vikings intensifient leurs raids, semant la terreur dans les régions côtières européennes.",
+    "id": "864a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 865,
+    "evenement": "Les royaumes carolingiens tentent de renforcer leurs alliances et leur défense.",
+    "id": "865a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 866,
+    "evenement": "Les tensions internes et les incursions vikings persistent, menaçant la stabilité des territoires carolingiens.",
+    "id": "866a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 867,
+    "evenement": "Les souverains carolingiens continuent leurs efforts pour stabiliser et protéger leurs territoires.",
+    "id": "867a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 868,
+    "evenement": "Les vikings poursuivent leurs incursions, perturbant le commerce et la sécurité en Europe.",
+    "id": "868a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 869,
+    "evenement": "Les royaumes carolingiens tentent de renforcer leurs alliances et leur administration.",
+    "id": "869a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
+  },
+  {
+    "annee": 870,
+    "evenement": "Traité de Meerssen : nouvelle division de l'empire carolingien entre les petits-fils de Charlemagne.",
+    "id": "870a",
+    "bannerImage": "/images/bannerMoyenAge.jpg"
   },
   {
     "annee": 911,
