@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f1b63ec.css",
-    "main.js": "/static/js/main.abf8f4a5.js",
-    "static/js/453.68f40124.chunk.js": "/static/js/453.68f40124.chunk.js",
-    "static/media/bannerHomePageXtraLarge.jpg": "/static/media/bannerHomePageXtraLarge.ba80f9db6fcd146cb08b.jpg",
-    "static/media/bannerHomePageLarge.jpg": "/static/media/bannerHomePageLarge.489d1c3cc5600d4b0f22.jpg",
-    "static/media/bannerHomePageMedium.jpg": "/static/media/bannerHomePageMedium.eff847e325847dd71f8c.jpg",
-    "static/media/bannerHomePageSmall.jpg": "/static/media/bannerHomePageSmall.4ca4ce50921f696274f6.jpg",
-    "static/media/bannerHomePageSmallX.jpg": "/static/media/bannerHomePageSmallX.93e6f444749e12350d12.jpg",
-    "static/media/bannerHomePageSmallXS.jpg": "/static/media/bannerHomePageSmallXS.d82d3a0d32f116c46cf8.jpg",
-    "index.html": "/index.html",
-    "main.6f1b63ec.css.map": "/static/css/main.6f1b63ec.css.map",
-    "main.abf8f4a5.js.map": "/static/js/main.abf8f4a5.js.map",
-    "453.68f40124.chunk.js.map": "/static/js/453.68f40124.chunk.js.map"
+    "main.css": "/quelle-date/static/css/main.fbeb472e.css",
+    "main.js": "/quelle-date/static/js/main.73274c88.js",
+    "static/js/453.68f40124.chunk.js": "/quelle-date/static/js/453.68f40124.chunk.js",
+    "static/media/bannerHomePageXtraLarge.jpg": "/quelle-date/static/media/bannerHomePageXtraLarge.ba80f9db6fcd146cb08b.jpg",
+    "static/media/bannerHomePageLarge.jpg": "/quelle-date/static/media/bannerHomePageLarge.489d1c3cc5600d4b0f22.jpg",
+    "static/media/bannerHomePageMedium.jpg": "/quelle-date/static/media/bannerHomePageMedium.eff847e325847dd71f8c.jpg",
+    "static/media/bannerHomePageSmall.jpg": "/quelle-date/static/media/bannerHomePageSmall.4ca4ce50921f696274f6.jpg",
+    "static/media/bannerHomePageSmallX.jpg": "/quelle-date/static/media/bannerHomePageSmallX.93e6f444749e12350d12.jpg",
+    "static/media/bannerHomePageSmallXS.jpg": "/quelle-date/static/media/bannerHomePageSmallXS.d82d3a0d32f116c46cf8.jpg",
+    "index.html": "/quelle-date/index.html",
+    "main.fbeb472e.css.map": "/quelle-date/static/css/main.fbeb472e.css.map",
+    "main.73274c88.js.map": "/quelle-date/static/js/main.73274c88.js.map",
+    "453.68f40124.chunk.js.map": "/quelle-date/static/js/453.68f40124.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f1b63ec.css",
-    "static/js/main.abf8f4a5.js"
+    "static/css/main.fbeb472e.css",
+    "static/js/main.73274c88.js"
   ]
 }
