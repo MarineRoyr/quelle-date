@@ -12,6 +12,10 @@ const Router = createBrowserRouter([
     errorElement: <Error/>,
     children: [
       {
+        path: 'quelle-date/',
+        element: <Layout/>
+      },
+      {
         path: 'apropos',
         element: <APropos/>
       },
