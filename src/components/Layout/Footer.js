@@ -11,8 +11,8 @@ const Footer = () => {
   <nav>
  <ul>
    <li><Link to="/quelle-date/">Accueil</Link></li>
-   <li><Link to="/apropos">A Propos</Link></li>
-   <li><Link to="/mentionslegales">Mentions légales</Link></li>
+   <li><Link to="/quelle-date/apropos">A Propos</Link></li>
+   <li><Link to="/quelle-date/mentionslegales">Mentions légales</Link></li>
  </ul>
 </nav>
       </div>
