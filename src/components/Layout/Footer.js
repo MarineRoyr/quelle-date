@@ -10,7 +10,7 @@ const Footer = () => {
   <div className='FooterContainer'>
   <nav>
  <ul>
-   <li><Link to="/">Accueil</Link></li>
+   <li><Link to="/quelle-date/">Accueil</Link></li>
    <li><Link to="/apropos">A Propos</Link></li>
    <li><Link to="/mentionslegales">Mentions légales</Link></li>
  </ul>
