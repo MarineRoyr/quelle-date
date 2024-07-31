@@ -23,10 +23,9 @@ $banner-image: '..';
         p {
 
             font-size: 35px;
-            font-family: $fontText ;
-            color: antiquewhite;
+            color: white;
             font-weight: 500;
-            text-shadow: 1em 1em 0.2em #313844;
+            text-shadow: 0.5em 0.5em 0.2em #313844;
         }
     }
 
@@ -45,7 +44,6 @@ $banner-image: '..';
             border: antiquewhite;
             border-radius: 10px 0px 0px 10px;
             font-size: 24px;
-            font-family: $fontText ;
             background-color: antiquewhite;
         }
 
@@ -108,7 +106,7 @@ $banner-image: '..';
                 width: 400px;
                 padding: 30px;
                 font-size: 18px;
-                font-family: $fontText ;
+
             }
 
             .searchButton {
@@ -178,13 +176,17 @@ $banner-image: '..';
 
     .SearchBarContainer {
         background-image: url("../images//bannerHomePageSmallXS.jpg");
-        height: 200px;
+        height: 285px;
         padding: 0;
 
+
         .searchBarForm {
+            padding-top: 50px;
+
             p {
-                font-weight: 800;
-                font-size: 12px;
+                color: white;
+                font-weight: 700;
+                font-size: 14px;
                 text-shadow: none;
 
             }
@@ -194,20 +196,20 @@ $banner-image: '..';
 
 
             .searchInput {
-                width: 100px;
-                padding: 10px;
-                font-size: 10px;
+                width: 180px;
+                padding: 13px;
+                font-size: 12px;
             }
 
             .searchButton {
-                padding: 11px 10px;
-                font-size: 10px;
+                padding: 14px 15px;
+                font-size: 12px;
             }
         }
 
 
         p {
-            font-size: 10px;
+            font-size: 13px;
             font-weight: 700;
         }
 

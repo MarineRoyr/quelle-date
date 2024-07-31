@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import data from '../../data/dates.json';
 import '../../styles/dates.scss';
+import SearchBar from '../SearchBar'
 
 // Déterminez si vous êtes en développement ou en production
 const isDevelopment = process.env.NODE_ENV === 'development';
@@ -37,7 +38,8 @@ const DateComponent = () => {
   }, [location.search]);
 
   return (
-    <div>
+   
+    <div> <div> <SearchBar/></div>
       {results.length > 0 ? (
         <div>
           {results.map((event, index) => (

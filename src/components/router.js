@@ -1,30 +1,32 @@
 import { createBrowserRouter } from 'react-router-dom';
-import Layout from '../components/Layout/Layout'
-import Error from '../components/pages/Error'
-import Date from './pages/Dates'
-import APropos from '../components/pages/APropos'
-import MentionsLegales from  '../components/pages/mentionsLegales'
+import Layout from '../components/Layout/Layout';
+import HomePage from '../components/pages/HomePage';
+import Error from '../components/pages/Error';
+import Date from '../components/pages/Dates';
+import APropos from '../components/pages/APropos';
+import MentionsLegales from '../components/pages/mentionsLegales';
 
 const Router = createBrowserRouter([
   {
     path: '/',
-    element: <div> <Layout/> </div>,
-    errorElement: <Error/>,
+    element: <Layout />,
+    errorElement: <Error />,
     children: [
       {
-        path: '/quelle-date/'
+        path: '/quelle-date/', // Page d'accueil
+        element: <HomePage />
       },
       {
-        path: '/quelle-date/apropos',
-        element: <APropos/>
+        path: 'quelle-date/apropos',
+        element: <APropos />
       },
       {
-        path: '/results',
-        element: <Date/>
+        path: 'results',
+        element: <Date />
       },
       {
-        path: '/quelle-date/mentionslegales',
-        element: <MentionsLegales/>
+        path: 'quelle-date/mentionslegales',
+        element: <MentionsLegales />
       }
     ]
   }

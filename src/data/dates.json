@@ -16,19 +16,40 @@
     "annee": -99,
     "evenement": "Guerre des Cimbres et des Teutons : Victoire de Marius sur les Teutons.",
     "id": "99a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -98,
     "evenement": "Les Cimbres envahissent la province romaine de Gaule transalpine.",
     "id": "98a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -97,
     "evenement": "La révolte des esclaves dirigée par Eunus en Sicile est réprimée.",
     "id": "97a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -96,
@@ -40,571 +61,1236 @@
     "annee": -95,
     "evenement": "Révolte de Jugurtha en Numidie contre Rome.",
     "id": "95a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -94,
     "evenement": "Début du règne de Mithridate VI du Pont.",
     "id": "94a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -93,
     "evenement": "Rome annexe la Cilicie.",
     "id": "93a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -92,
     "evenement": "Début de la guerre entre Rome et le royaume de Cappadoce.",
     "id": "92a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -91,
     "evenement": "Guerre sociale entre Rome et ses alliés italiens.",
     "id": "91a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -90,
     "evenement": "Révolte de Sertorius en Espagne contre Rome.",
     "id": "90a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -89,
     "evenement": "Les Italiens obtiennent la citoyenneté romaine après la guerre sociale.",
     "id": "89a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -88,
     "evenement": "Marius et Sylla se disputent le commandement de l'armée romaine.",
     "id": "88a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -87,
     "evenement": "Sylla marche sur Rome et prend le pouvoir.",
     "id": "87a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -86,
     "evenement": "Mort de Marius, Sylla reste seul maître de Rome.",
     "id": "86a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -85,
     "evenement": "Sylla signe un traité de paix avec Mithridate VI.",
     "id": "85a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -84,
     "evenement": "Retour de Sylla à Rome et début de la dictature de Sylla.",
     "id": "84a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -83,
     "evenement": "Guerre civile entre les partisans de Sylla et les partisans de Marius.",
     "id": "83a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -82,
     "evenement": "Sylla se proclame dictateur perpétuel de Rome.",
     "id": "82a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -81,
     "evenement": "Sylla abdique de la dictature.",
     "id": "81a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -80,
     "evenement": "Crassus et Pompée se distinguent lors de la guerre contre Spartacus.",
     "id": "80a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -79,
     "evenement": "Mort de Sylla.",
     "id": "79a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -78,
     "evenement": "Révolte de Lepidus contre le Sénat romain.",
     "id": "78a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -77,
     "evenement": "Pompée écrase la révolte de Sertorius en Espagne.",
     "id": "77a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -76,
     "evenement": "Pompée combat les pirates en Méditerranée.",
     "id": "76a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -75,
     "evenement": "Jules César est capturé par des pirates et libéré contre rançon.",
     "id": "75a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -74,
     "evenement": "Début de la troisième guerre mithridatique.",
     "id": "74a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -73,
     "evenement": "Révolte de Spartacus contre Rome.",
     "id": "73a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -72,
     "evenement": "Spartacus remporte des victoires contre les légions romaines.",
     "id": "72a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -71,
     "evenement": "Défaite et mort de Spartacus.",
     "id": "71a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -70,
     "evenement": "Pompée et Crassus sont élus consuls.",
     "id": "70a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -69,
     "evenement": "Naissance de Cléopâtre VII d'Égypte.",
     "id": "69a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -68,
     "evenement": "Campagnes de Pompée en Orient.",
     "id": "68a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -67,
     "evenement": "Jules César commence sa carrière politique à Rome.",
     "id": "67a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -66,
     "evenement": "Pompée réprime la révolte en Judée.",
     "id": "66a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -65,
     "evenement": "Jules César est élu grand pontife.",
     "id": "65a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -64,
     "evenement": "Pompée annexe la Syrie à l'Empire romain.",
     "id": "64a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -63,
     "evenement": "Jules César est élu questeur.",
     "id": "63a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -62,
     "evenement": "Naissance de l'alliance politique du Premier Triumvirat entre Jules César, Pompée et Crassus.",
     "id": "62a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -61,
     "evenement": "Pompée est élu consul pour la seconde fois.",
     "id": "61a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -60,
     "evenement": "Début de la guerre contre les Parthes sous Crassus.",
     "id": "60a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -59,
     "evenement": "Jules César est élu consul.",
     "id": "59a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -58,
     "evenement": "Début des campagnes de César en Gaule.",
     "id": "58a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -57,
     "evenement": "Victoire de César contre les Éburons.",
     "id": "57a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -56,
     "evenement": "César forme un nouveau triumvirat avec Pompée et Crassus.",
     "id": "56a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -55,
     "evenement": "Campagnes de César en Gaule Belgique.",
     "id": "55a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -54,
     "evenement": "Début des campagnes de César en Bretagne.",
     "id": "54a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -53,
     "evenement": "Mort de Crassus en Syrie.",
     "id": "53a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -52,
     "evenement": "Victoire de César sur Vercingétorix lors de la bataille d'Alésia.",
     "id": "52a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -51,
     "evenement": "Début des réformes de César à Rome.",
     "id": "51a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -50,
     "evenement": "Début de la guerre civile entre César et Pompée.",
     "id": "50a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -49,
     "evenement": "César franchit le Rubicon et entre à Rome.",
     "id": "49a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -48,
     "evenement": "Victoire de César à la bataille de Pharsale.",
     "id": "48a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -47,
     "evenement": "César est nommé dictateur à vie.",
     "id": "47a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -46,
     "evenement": "Réformes de César et réorganisation du calendrier.",
     "id": "46a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -45,
     "evenement": "Campagne de César en Égypte et alliance avec Cléopâtre.",
     "id": "45a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -44,
     "evenement": "Assassinat de Jules César aux Ides de mars.",
     "id": "44a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -43,
     "evenement": "Formation du Second Triumvirat.",
     "id": "43a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -42,
     "evenement": "Bataille de Philippes : défaite des partisans de Brutus et Cassius.",
     "id": "42a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -41,
     "evenement": "Octave et Antoine se partagent l'Empire.",
     "id": "41a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -40,
     "evenement": "Octave épouse Scribonia.",
     "id": "40a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -39,
     "evenement": "Début de la conquête de l'Égypte par Octave.",
     "id": "39a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -38,
     "evenement": "Mariage d'Antoine avec Cléopâtre.",
     "id": "38a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -37,
     "evenement": "Début des guerres civiles romaines entre Octave et Antoine.",
     "id": "37a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -36,
     "evenement": "Défaite d'Antoine à la bataille d'Actium.",
     "id": "36a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -35,
     "evenement": "Cléopâtre et Antoine se suicident.",
     "id": "35a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -34,
     "evenement": "Octave devient empereur et inaugure le principat.",
     "id": "34a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -33,
     "evenement": "Début du règne d'Auguste.",
     "id": "33a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -32,
     "evenement": "Réformes d'Auguste et consolidation de l'Empire.",
     "id": "32a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -31,
     "evenement": "Victoire d'Auguste sur Marc Antoine à la bataille d'Actium.",
     "id": "31a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -30,
     "evenement": "Cléopâtre se suicide et l'Égypte devient province romaine.",
     "id": "30a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -29,
     "evenement": "Auguste réorganise les provinces romaines.",
     "id": "29a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -28,
     "evenement": "Auguste remporte la victoire contre les Cantabres en Espagne.",
     "id": "28a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -27,
     "evenement": "Auguste est proclamé Princeps, début du règne de l'Empire romain.",
     "id": "27a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -26,
     "evenement": "Réformes administratives sous Auguste.",
     "id": "26a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -25,
     "evenement": "Établissement de la paix romaine (Pax Romana) par Auguste.",
     "id": "25a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -24,
     "evenement": "Réorganisation de la légion romaine par Auguste.",
     "id": "24a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -23,
     "evenement": "Réformes économiques et fiscales sous Auguste.",
     "id": "23a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -22,
     "evenement": "Début de la construction du Forum d'Auguste à Rome.",
     "id": "22a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -21,
     "evenement": "Consolidation des frontières de l'Empire par Auguste.",
     "id": "21a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -20,
     "evenement": "Pacte de paix avec les peuples germaniques.",
     "id": "20a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -19,
     "evenement": "Inauguration de l'Autel de la Paix (Ara Pacis).",
     "id": "19a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -18,
     "evenement": "Réformes judiciaires sous Auguste.",
     "id": "18a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -17,
     "evenement": "Renforcement de la flotte romaine.",
     "id": "17a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -16,
     "evenement": "Organisation des provinces de l'Empire romain.",
     "id": "16a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -15,
     "evenement": "Début de la construction du Temple de Jupiter sur le Capitole.",
     "id": "15a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -14,
     "evenement": "Mort d'Auguste et début du règne de Tibère.",
     "id": "14a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -13,
     "evenement": "Consolidation du pouvoir impérial par Tibère.",
     "id": "13a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -12,
     "evenement": "Tibère réforme les institutions administratives.",
     "id": "12a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -11,
     "evenement": "Expansion des frontières de l'Empire sous Tibère.",
     "id": "11a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -10,
     "evenement": "Renforcement de la sécurité intérieure de l'Empire.",
     "id": "10a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -9,
     "evenement": "Événements notables en Gaule sous Tibère.",
     "id": "9a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -8,
     "evenement": "Régularisation des finances impériales.",
     "id": "8a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -7,
     "evenement": "Début des réformes sociales et morales.",
     "id": "7a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -6,
     "evenement": "Consolidation du pouvoir impérial par Tibère.",
     "id": "6a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -5,
     "evenement": "Organisation des provinces orientales.",
     "id": "5a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -4,
     "evenement": "Réformes judiciaires et administratives sous Tibère.",
     "id": "4a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -3,
     "evenement": "Politique extérieure de Tibère dans le Nord de l'Empire.",
     "id": "3a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -2,
     "evenement": "Consolidation des frontières impériales.",
     "id": "2a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": -1,
     "evenement": "Développement de la politique de clientélisme sous Tibère.",
     "id": "1a",
-    "bannerImage": "images/bannerAntiquite.jpg"
+    "bannerImage": "images/bannerAntiquite.jpg",
+    "personnage": {
+      "name": "Le personnage du siècle : Jules César",
+      "description": "Jules César (en latin : Caius Iulius Caesar IV à sa naissance, Imperator Iulius Caesar Divus après sa mort), aussi simplement appelé César, est un général, homme d'État et écrivain romain, né le 12 ou le 13 juillet 100 av. J.-C. à Rome et mort le 15 mars 44 av. J.-C. (aux ides de mars) dans la même ville.\n\nSon parcours unique, au cœur du dernier siècle de la République romaine — bouleversée par les tensions sociales et les guerres civiles —, marque le monde romain et l'histoire universelle. Ambitieux, il s'appuie sur le courant réformateur et démagogue (populares) qui traverse la cité romaine pour favoriser son ascension politique. Stratège et tacticien, il repousse, à l'aide de ses armées, les frontières de la République romaine jusqu'au Rhin et à l'océan Atlantique en conquérant la Gaule, puis utilise ses légions pour s’emparer du pouvoir au cours de la guerre civile l’opposant à Pompée, son ancien allié, puis aux républicains.",
+      "photoPersonnage": "images/personnages/cesar.jpg",
+      "podcastUrl": "https://www.youtube.com/watch?v=FfYd4AQo_dE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vc45WwVsfWI"
+    }
   },
   {
     "annee": 0,

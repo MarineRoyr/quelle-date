@@ -2,20 +2,31 @@ $blackColor: #000000;
 $BlueNavy: #10376B;
 $galleryColor: #F6F6F6;
 $fontText: 'Montserrat';
+$extra-small-screen: 600px;
+$small-screen: 768px;
+$medium-screen: 1024px;
+$large-screen: 1440px;
+$large-extra-screen: 1800px;
 
-.FooterContainer {
+
+
+footer {
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
+    .footerContainer {
+        background-color: white;
+
+    }
 
     nav {
 
 
 
         ul {
-            font-family: $fontText;
             display: flex;
             gap: 150px;
             font-size: 24px;
@@ -42,9 +53,8 @@ $fontText: 'Montserrat';
     }
 }
 
-@media (max-width: 1024px) {
-
-    .FooterContainer {
+@media (max-width: $medium-screen) {
+    footer {
         nav {
             ul {
                 font-size: 20px;
@@ -54,25 +64,17 @@ $fontText: 'Montserrat';
 
 }
 
-@media (max-width: 768px) {
+@media (max-width:$small-screen) {
 
-    .FooterContainer {
-
-        h1 img {
-            max-width: 190px;
-        }
-
-
+    footer {
+        position: static;
 
         nav {
-
-
             ul {
                 text-transform: uppercase;
                 font-size: 11.5px;
                 gap: 20px;
                 font-weight: 500;
-                padding: 0;
 
                 a {
                     padding: 0;
@@ -83,4 +85,14 @@ $fontText: 'Montserrat';
         }
     }
 
+}
+
+@media (max-width:$extra-small-screen) {
+    footer {
+        nav {
+            ul {
+                gap: 10px;
+            }
+        }
+    }
 }

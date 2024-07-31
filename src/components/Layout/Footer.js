@@ -7,7 +7,7 @@ import '../../styles/footer.scss'
 const Footer = () => {
     return (
  <footer>
-  <div className='FooterContainer'>
+  <div className='footerContainer'>
   <nav>
  <ul>
    <li><Link to="/quelle-date/">Accueil</Link></li>

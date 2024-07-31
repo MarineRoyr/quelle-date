@@ -19,7 +19,6 @@ $large-extra-screen: 1800px;
         display: flex;
         gap: 25px;
         color: rgb(12, 32, 58);
-        font-family: $fontText;
         font-size: 30px;
         padding-left: 100px;
 
@@ -51,7 +50,6 @@ $large-extra-screen: 1800px;
             color: white;
             font-size: 70px;
             font-weight: 500;
-            font-family: $fontText;
         }
 
         img {
@@ -80,7 +78,6 @@ $large-extra-screen: 1800px;
 
         .personnage {
             max-width: 2000px;
-            font-family: $fontText;
             display: flex;
             gap: 30px;
             background-color: rgb(12, 32, 58);
@@ -129,7 +126,6 @@ $large-extra-screen: 1800px;
                     background-color: #b8872e;
                     padding: 10px;
                     color: antiquewhite;
-                    font-family: $fontText;
                     font-size: 16px;
                     width: 50%;
                     -webkit-transition: all 0.5s;
@@ -165,7 +161,6 @@ $large-extra-screen: 1800px;
         color: antiquewhite;
         font-size: 70px;
         font-weight: 500;
-        font-family: $fontText;
     }
 
     img {
@@ -271,30 +266,30 @@ $large-extra-screen: 1800px;
         flex-direction: column-reverse;
 
         .yearList {
+            .eventLeft {
+                height: min-content;
+            }
+
             .eventYearList {
                 display: flex;
                 flex-direction: column;
                 font-size: 30px;
                 padding-left: 0px;
 
+
                 img {
                     display: none;
                 }
             }
 
-            .personnage:hover {
-                background-color: rgb(16, 55, 107);
-                -webkit-transition: all 0.5s;
-                -moz-transition: all 0.5s;
-                -o-transition: all 0.5s;
-                transition: all 0.5s;
-            }
 
             .personnage {
+                padding-bottom: 10px;
                 flex-direction: column;
                 align-items: center;
                 gap: 30px;
                 min-height: max-content;
+                margin-bottom: 10%;
 
                 .personnagePhoto {
                     img {
@@ -333,6 +328,9 @@ $large-extra-screen: 1800px;
 
     .allResults {
         .yearList {
+            .eventLeft {
+                height: min-content;
+            }
 
             .eventRight {
 

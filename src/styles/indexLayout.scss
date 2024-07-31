@@ -1,0 +1,23 @@
+$extra-small-screen: 600px;
+$fontText: 'Montserrat';
+
+
+
+body {
+  margin: 30px;
+  font-family: $fontText;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+@media (max-width: $extra-small-screen) {
+
+  body {
+    margin: 5px;
+    height: max-content;
+
+  }
+}

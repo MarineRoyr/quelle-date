@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../../styles/searchbar.scss';
+import '../styles/searchbar.scss'
 import { useNavigate } from 'react-router-dom';
 
 
@@ -24,7 +24,7 @@ const SearchBar = () => {
     if (query.length >= 1 && query.length <= 5) {
         // Redirige vers la page de résultats avec le paramètre de recherche
         navigate(`/results?search=${encodeURIComponent(query)}`);
-        console.log('Form submitted with query:', query);
+        window.scrollBy({ top: 500, behavior: 'smooth' })
     } else {
         setShowTooltip(true); // Affiche l'infobulle si la longueur de la valeur est invalide lors de la soumission
     }
