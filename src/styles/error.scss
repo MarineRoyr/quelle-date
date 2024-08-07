@@ -1,0 +1,52 @@
+.Error {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    img {
+        max-width: 15%;
+    }
+
+    .Error404 {
+        font-size: 90px;
+        font-weight: 700;
+
+    }
+
+    .ErrorTxt {
+
+        font-size: 36px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    font-size: 18px;
+    font-weight: 500;
+
+
+}
+
+@media (max-width: 768px) {
+
+    .Error {
+
+        .Error404 {
+            font-size: 96px;
+        }
+
+        .ErrorTxt {
+            font-size: 18px;
+            text-align: center;
+        }
+
+        a {
+            font-size: 14px;
+        }
+
+    }
+
+
+
+}

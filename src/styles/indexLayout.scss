@@ -8,16 +8,15 @@ body {
   font-family: $fontText;
   display: flex;
   flex-direction: column;
-
-
+  height: max-content
 }
 
 
 @media (max-width: $extra-small-screen) {
 
   body {
-    margin: 5px;
-    height: max-content;
+    margin: 10px;
+    ;
 
   }
 }

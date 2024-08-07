@@ -1,14 +1,14 @@
 $BlueNavy: #10376B;
 $fontText: 'Montserrat';
 $extra-small-screen: 600px;
-$small-screen: 768px;
+$small-screen: 830px;
 $medium-screen: 1024px;
 $large-screen: 1440px;
 $large-extra-screen: 1800px;
 
 
 .allResults {
-    margin-top: 40px;
+    margin-top: 20px;
     display: flex;
     justify-content: space-between;
     gap: 10px;
@@ -19,18 +19,27 @@ $large-extra-screen: 1800px;
         display: flex;
         gap: 25px;
         color: rgb(12, 32, 58);
-        font-size: 30px;
-        padding-left: 100px;
+        padding-left: 70px;
+
+        img {
+            margin-top: 15px;
+            height: 60px;
+        }
 
         .eventTitle {
             display: flex;
             flex-direction: column;
+
+            h3 {
+                font-size: 22px;
+            }
+
+            p {
+                font-size: 19px;
+            }
         }
 
-        img {
-            margin-top: 15px;
-            height: 80px;
-        }
+
 
 
     }
@@ -45,18 +54,19 @@ $large-extra-screen: 1800px;
         h2 {
             position: absolute;
             top: 3%;
-            left: 28%;
+            left: 25%;
             z-index: 1;
             color: white;
-            font-size: 70px;
+            font-size: 75px;
             font-weight: 500;
         }
 
         img {
             width: 100%;
             object-fit: cover;
-            height: 810px;
+            height: 760px;
             opacity: 80%;
+            min-width: 400px;
         }
     }
 
@@ -65,7 +75,7 @@ $large-extra-screen: 1800px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            height: 800px;
+
         }
 
         .personnage:hover {
@@ -83,7 +93,8 @@ $large-extra-screen: 1800px;
             background-color: rgb(12, 32, 58);
             border-radius: 5px;
             color: #F6F6F6;
-            min-height: 600px;
+            min-height: 620px;
+            padding: 5px;
 
             h3 {
                 font-family: "inconsolata";
@@ -106,7 +117,7 @@ $large-extra-screen: 1800px;
                 img {
                     width: 100%;
                     object-fit: cover;
-                    height: 600px;
+                    height: 620px;
                     opacity: 90%;
                     border-radius: 5px;
                 }
@@ -145,53 +156,32 @@ $large-extra-screen: 1800px;
 
 }
 
-
-
-.eventRight {
-    max-width: 1000px;
-    width: 100%;
-    position: relative;
-    z-index: 2;
-
-    h2 {
-        position: absolute;
-        top: 18%;
-        left: 28%;
-        z-index: 1;
-        color: antiquewhite;
-        font-size: 70px;
-        font-weight: 500;
-    }
-
-    img {
-        min-width: 200px;
-    }
-}
-
-
-
 @media (max-width: $large-screen) {
 
     .allResults {
-
         .yearList {
             .eventYearList {
                 padding-left: 0px;
+
+                h3 {
+                    font-size: 20px;
+                }
+
+                p {
+                    font-size: 18px;
+                }
             }
-
-
         }
 
         .eventRight {
             h2 {
                 top: 18%;
                 left: 15%;
-                font-size: 60px;
+                font-size: 48px;
             }
 
             img {
-
-                min-width: 200px;
+                min-width: 250px;
             }
         }
     }
@@ -199,58 +189,55 @@ $large-extra-screen: 1800px;
 
 @media (max-width: $medium-screen) {
     .allResults {
-
-
-        .eventYearList {
-            font-size: 24px;
-            padding-left: 0;
-
-            .eventTitle {
-                display: flex;
-                flex-direction: column;
-            }
-
-            img {
-                margin-top: 15px;
-                height: 80px;
-            }
-        }
-
-
         .eventRight {
-
             h2 {
                 font-size: 45px;
+                left: 10%;
             }
 
             img {
                 height: 800px;
-
             }
         }
 
         .yearList {
+            .eventLeft {
+                .eventYearList {
+                    padding-left: 0;
 
-            .personnage {
-                gap: 20px;
+                    .eventTitle {
+                        display: flex;
+                        flex-direction: column;
+                        font-size: 16px;
+                    }
 
-                h3 {
-                    font-weight: 600;
-                    font-size: 18px;
+                    img {
+                        margin-top: 15px;
+                    }
                 }
 
 
-                .personnageTxt {
-                    font-size: 13px;
-                    max-width: 70%;
-                }
+                .personnage {
+                    gap: 20px;
 
-                .mediaLinks {
-                    font-size: 14px;
+                    h3 {
+                        font-weight: 600;
+                        font-size: 18px;
+                    }
 
-                    button {
-                        padding: 6px;
-                        font-size: 12px;
+
+                    .personnageTxt {
+                        font-size: 13px;
+                        max-width: 70%;
+                    }
+
+                    .mediaLinks {
+                        font-size: 14px;
+
+                        button {
+                            padding: 6px;
+                            font-size: 12px;
+                        }
                     }
                 }
             }
@@ -273,9 +260,11 @@ $large-extra-screen: 1800px;
             .eventYearList {
                 display: flex;
                 flex-direction: column;
-                font-size: 30px;
                 padding-left: 0px;
 
+                p {
+                    font-size: 16px;
+                }
 
                 img {
                     display: none;
@@ -292,8 +281,11 @@ $large-extra-screen: 1800px;
                 margin-bottom: 10%;
 
                 .personnagePhoto {
+                    width: 95%;
+
                     img {
-                        height: 300px;
+                        height: 400px;
+                        object-fit: cover;
                     }
                 }
 
@@ -311,8 +303,8 @@ $large-extra-screen: 1800px;
 
             h2 {
                 top: 18%;
-                left: 15%;
-                font-size: 35px;
+                left: 14%;
+                font-size: 40px;
             }
 
             img {
@@ -335,7 +327,7 @@ $large-extra-screen: 1800px;
             .eventRight {
 
                 h2 {
-                    top: 18%;
+                    top: 15%;
                     left: 15%;
                     font-size: 35px;
                 }

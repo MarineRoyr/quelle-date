@@ -1,10 +1,10 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Layout from '../components/Layout/Layout';
-import HomePage from '../components/pages/HomePage';
+import HomePage from './pages/HomePage';
 import Error from '../components/pages/Error';
 import Date from '../components/pages/Dates';
 import APropos from '../components/pages/APropos';
-import MentionsLegales from '../components/pages/mentionsLegales';
+import MentionsLegales from './pages/mentionsLegales';
 
 const Router = createBrowserRouter([
   {

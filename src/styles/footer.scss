@@ -14,7 +14,6 @@ footer {
 
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 
     .footerContainer {
@@ -24,19 +23,12 @@ footer {
 
     nav {
 
-
-
         ul {
             display: flex;
             gap: 150px;
             font-size: 24px;
             font-weight: 700;
             list-style: none;
-
-            li {
-                display: inline-block;
-                text-align: right;
-            }
 
             a {
                 display: block;
@@ -90,8 +82,10 @@ footer {
 @media (max-width:$extra-small-screen) {
     footer {
         nav {
+            padding-top: 30px;
+
             ul {
-                gap: 10px;
+                gap: 20px;
             }
         }
     }

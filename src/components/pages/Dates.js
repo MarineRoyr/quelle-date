@@ -4,6 +4,7 @@ import data from '../../data/dates.json';
 import '../../styles/dates.scss';
 import SearchBar from '../SearchBar'
 
+
 // Déterminez si vous êtes en développement ou en production
 const isDevelopment = process.env.NODE_ENV === 'development';
 
@@ -38,8 +39,8 @@ const DateComponent = () => {
   }, [location.search]);
 
   return (
-   
-    <div> <div> <SearchBar/></div>
+
+    <div> <div> <SearchBar /></div>
       {results.length > 0 ? (
         <div>
           {results.map((event, index) => (
@@ -48,7 +49,7 @@ const DateComponent = () => {
                 <div>
                   <div className="eventLeft">
                     <div className="eventYearList">
-                      <img src={`${imageUrl}/images/evenement.png`} alt="icône"/>
+                      <img src={`${imageUrl}/images/evenement.png`} alt="icône" />
                       <div className='eventTitle'>
                         <h3>L'évènement</h3>
                         <p>{event.evenement}</p>
@@ -66,7 +67,7 @@ const DateComponent = () => {
                           </div>
                           <div className="mediaLinks">
                             <p>Pour les plus curieux !
-                              <br />Découvrez ce personnage d'un autre temps avec nos ressources d'aujourd'hui
+                              <br />Découvrez ces éléments d'un autre temps avec nos ressources d'aujourd'hui
                             </p>
                             {event.personnage.podcastUrl && (
                               <button onClick={() => window.open(event.personnage.podcastUrl, '_blank')}>
@@ -93,7 +94,7 @@ const DateComponent = () => {
           ))}
         </div>
       ) : (
-        <p>Aucun résultat trouvé pour l'année {searchYear}.</p>
+        <p> Application en cours de développement. Aucun résultat trouvé pour l'année {searchYear}.</p>
       )}
     </div>
   );
