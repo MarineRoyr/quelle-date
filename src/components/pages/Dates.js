@@ -21,17 +21,17 @@ const DateComponent = () => {
   useEffect(() => {
     // Récupère le paramètre de recherche de l'URL
     const query = new URLSearchParams(location.search).get('search') || '';
-    console.log("Query from URL:", query); // Ajouté pour le débogage
+
     setSearchYear(query); // Met à jour l'année recherchée
 
     // Filtre les données en fonction du paramètre de recherche
     const queryYear = parseInt(query, 10);
-    console.log("Parsed queryYear:", queryYear); // Ajouté pour le débogage
+
 
     // Filtrer les résultats pour ne garder que ceux de l'année correspondant exactement à queryYear
     if (!isNaN(queryYear)) {
       const filteredResults = data.filter(event => event.annee === queryYear);
-      console.log("Filtered results:", filteredResults); // Ajouté pour le débogage
+
       setResults(filteredResults);
     } else {
       setResults([]); // Si la query n'est pas un nombre, on vide les résultats
@@ -39,8 +39,10 @@ const DateComponent = () => {
   }, [location.search]);
 
   return (
-
-    <div> <div> <SearchBar /></div>
+    <div>
+      <div>
+        <SearchBar />
+      </div>
       {results.length > 0 ? (
         <div>
           {results.map((event, index) => (
@@ -52,7 +54,14 @@ const DateComponent = () => {
                       <img src={`${imageUrl}/images/evenement.png`} alt="icône" />
                       <div className='eventTitle'>
                         <h3>L'évènement</h3>
-                        <p>{event.evenement}</p>
+                        {/* Vérification et affichage des événements */}
+                        {Array.isArray(event.evenement) ? (
+                          event.evenement.map((text, i) => (
+                            <p key={i}>{text}</p>
+                          ))
+                        ) : (
+                          <p>{event.evenement}</p> // Affichage par défaut si ce n'est pas un tableau
+                        )}
                       </div>
                     </div>
                     {event.personnage && (

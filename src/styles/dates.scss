@@ -64,7 +64,7 @@ $large-extra-screen: 1800px;
         img {
             width: 100%;
             object-fit: cover;
-            height: 760px;
+            height: 100%;
             opacity: 80%;
             min-width: 400px;
         }
@@ -195,9 +195,7 @@ $large-extra-screen: 1800px;
                 left: 10%;
             }
 
-            img {
-                height: 800px;
-            }
+           
         }
 
         .yearList {
